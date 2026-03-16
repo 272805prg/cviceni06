@@ -7,6 +7,6 @@ druhý úkol obsahuje signalové operace a grafy
 
 a třetí úkol řeší průnik dvou kružnic
 
-http://www.sbirkaprikladu.eu/p/4881
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaT9dj0RYn2hIfA3Xqz6P0vJc10ipaqdx5LA&s
 
 Marek Nádvorník je gay
