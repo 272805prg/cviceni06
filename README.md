@@ -3,6 +3,8 @@ Repozitář obsahuje řešení úkolů v hodinách
 
 první úkol je prostá kontrola hesla
 
+#program posoudí jaké skore heslo dostane a jak je bezpečné
+
 druhý úkol obsahuje signalové operace a grafy
 
 a třetí úkol řeší průnik dvou kružnic
